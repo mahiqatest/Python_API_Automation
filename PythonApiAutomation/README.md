@@ -1,4 +1,5 @@
-![image](https://github.com/mahiqatest/Python_API_Automation/assets/148570795/e8118a83-5345-49a2-86d8-7df89d60f4f0)
+![image](https://github.com/mahiqatest/Python_API_Automation/assets/148570795/b42f769c-2266-42fb-b42a-da4405561603)
+
 
 # Python Automation Framework
 
