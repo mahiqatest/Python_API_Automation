@@ -1,9 +1,11 @@
-![image](https://github.com/mahiqatest/Python_API_Automation/assets/148570795/b42f769c-2266-42fb-b42a-da4405561603)
+
 
 
 # Python Automation Framework
 
 Hybrid custom framework to test Rest apis
+
+![image](https://github.com/mahiqatest/Python_API_Automation/assets/148570795/b42f769c-2266-42fb-b42a-da4405561603)
 
 ### Tech Stack
 1. Python 3.12.1
